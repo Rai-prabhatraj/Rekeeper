@@ -1,14 +1,4 @@
 
-# ChainCare
-
-ChainCare is a health information system that uses smart contracts to handle medical procedures and stores the medical history in Block Chains.
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/46838441/175833736-e9c88933-a762-4fef-86f5-c5cf4f6d706d.png" width="500px" height="auto">
-
-</div>
-
 
 
 
@@ -32,25 +22,6 @@ This system provides a whole medical history of the patient since the subscribin
 - Lab staff can allow remotely receiving required medical tests and uploading the results.
 
 
-## Demo
-
-**System's features preview:** 
-
-https://user-images.githubusercontent.com/46838441/175837636-27f285b6-3bcb-4efc-9663-6c8576e227b0.mp4
-
-
-**System's preview:**
-
-https://user-images.githubusercontent.com/46838441/175837990-7ee475b0-9d4f-4bcc-966e-e34d9f795550.mp4
-
-**API & Database:**
-
-
-https://user-images.githubusercontent.com/46838441/175838776-642521e8-87ee-4088-882d-e26db2915eb3.mp4
-
-**Ganache workspace (for testing Data):**
-
-https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-857a-53995a39616b.mp4
 
 
 ## Tech Stack
@@ -84,10 +55,6 @@ https://user-images.githubusercontent.com/46838441/175838446-1b02243e-23fa-45d6-
 - Insomnia (Test API)
 
 
-## For more information about the system, implementation, and technologies:
-
- - [Check The Documentation](https://github.com/Dina-Hosny/ChainCare/blob/master/ChainCare%20Documentation.pdf)
- - [Check The Presentation](https://github.com/Dina-Hosny/ChainCare/blob/master/ChainCare%20Presentation.pptx)
 
 
 
